@@ -2,6 +2,7 @@
 #define __LINKEDLIST__
 
 #include <iostream>
+#include <cstdlib>
 using namespace std;
 template <typename T>
 
